@@ -58,4 +58,4 @@ Finally it walks the reader through three quick examples of how to model some ic
 
 ### About this book
 
-The contents of this book are published under a [Creative Commons / Attribution](https://en.wikipedia.org/wiki/Creative_Commons_license#Attribution) license, and an online version will always be kept free for everyone to download and read. As much as possible, 
+The contents of this book are published under a [Creative Commons](LICENSE) license, and an online version will always be kept free for everyone to download and read. As much as possible, it will also be kept updated with future versions of FreeCAD.

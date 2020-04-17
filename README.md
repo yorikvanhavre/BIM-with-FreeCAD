@@ -42,6 +42,10 @@ Finally it walks the reader through three quick examples of how to model some ic
 
 * Working with other open-source tools
 
+* Performing analyses
+
+* Creating 3D renderings
+
 * Example 1: The Barcelona pavilion by Mies Van der Rohe
 
 * Example 2: The Pampulha church by Oscar Niemeyer

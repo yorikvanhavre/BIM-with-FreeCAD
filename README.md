@@ -14,7 +14,7 @@ Finally it walks the reader through three quick examples of how to model some ic
 
 ### Table of contents
 
-* [About BIM](About BIM.md)
+* [About BIM](About%20BIM.md)
 
 * About FreeCAD
 

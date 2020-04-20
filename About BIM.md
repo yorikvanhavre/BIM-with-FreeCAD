@@ -1,6 +1,6 @@
 # About BIM
 
-![BIM model of the Barcelona Pavillion, by architect Mies Van Der Rohe](images/BIM model of the Barcelona Pavillion.png)
+![BIM model of the Barcelona Pavillion, by architect Mies Van Der Rohe](images/BIM%20model%20of%20the%20Barcelona%20Pavillion.png)
 
 *A BIM model of the Barcelona Pavilion by Arch. Mies Van Der Rohe*
 

@@ -6,7 +6,7 @@
 
 
 
-BIM stands for *Building Information Modelling* [^1]. It is a similar term to CAD, or *Computer Aided Design* [^2] which broadly describes "technical" (as used in engineering or architecture) designs made with the aid of a computer. CAD designs can be actual drawings or 3D models.
+BIM stands for *Building Information Modelling* [^1]. It is a similar term to CAD, or *Computer Aided Design* [^2] which broadly describes "technical" (for example for engineering, architecture, product or furniture) designs made with the aid of a computer. CAD designs can be actual drawings or 3D models.
 
 There are hundreds of different definitions of BIM out there, and one usually sees BIM experts arguing endlessly over the correct definition on social networks. I will try my own here:
 
@@ -18,7 +18,7 @@ By searching on the internet, you will quickly find much broader definitions of 
 
 There is no central authority that decides about BIM, but there is one, called BuildingSMART [^3], a consortium which gathers several entities involved in the construction industry, that manages a specific file format / protocol used in BIM: the IFC standard, or *Industry Foundation Classes* [^4]. 
 
-The IFC file format is open and readable with a simple text editor, and its specification is public. This, contrarily to closed file formats, allows anybody to legally implement it in their application, and participate to its definition. This makes it a very important foundation of BIM.
+The IFC file format is open and readable with a simple text editor, and its specification is public. This, contrarily to closed file formats, allows anybody to legally implement it in their application, and participate to its definition. This makes it a very important foundation of BIM. The IFC format is also sometimes called openBIM.
 
 
 

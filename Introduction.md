@@ -26,7 +26,6 @@ The free and open-source world is large, solid, and produces a lot of powerful, 
 
 The aim of this book is to convince you that the above line is true, and help you getting on board. FreeCAD is my main workhorse, the BIM application I use everyday and I contribute to develop, so FreeCAD is what this book will be about. But I also hope to demonstrate that FreeCAD is part of a much larger world of free and open-source BIM tools, all connectable and all using similar principles of openness, where nobody will be a prisoner anymore, ever.
 
- ---
 
 [^1]: It is complicated to indicate any direct reference link here, partly because this is a fast evolving situation and links get quickly obsolete, and it is hard to obtain serious, fact-checked data that is not partial to one of these companies. The [2020 NBS National BIM guide](https://www.thenbs.com/knowledge/national-bim-report-2020) indicates a 70% market share for one and 19% for the other.
 [^2]: https://en.wikipedia.org/wiki/Vendor_lock-in

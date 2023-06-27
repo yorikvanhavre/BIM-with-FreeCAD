@@ -26,7 +26,6 @@ There is no central authority that decides about BIM, but there is a body, calle
 
 The IFC file format is open and readable with a simple text editor, and its specification is public. This, contrarily to closed file formats, allows anybody to legally implement it in their application, and participate to its definition. This makes it a very important foundation of BIM. The IFC format is also sometimes called OpenBIM.
 
----
 
 [^1]: https://en.wikipedia.org/wiki/Building_information_modeling
 [^2]: https://en.wikipedia.org/wiki/Computer-aided_design

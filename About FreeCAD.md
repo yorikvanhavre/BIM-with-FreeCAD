@@ -27,7 +27,6 @@ The BIM workbench in FreeCAD includes tools commonly found in other BIM applicat
 
 This book will treat almost exclusively of BIM, but learning other areas and workbenches of FreeCAD will expand a lot what you can achieve with it. FreeCAD has an extensive user documentation [^6], with tutorials and a manual [^7] available in e-book forms.
 
----
 
 [^1]: https://www.freecadweb.org
 [^2]: https://en.wikipedia.org/wiki/Boundary_representation
